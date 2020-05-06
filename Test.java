@@ -3,5 +3,6 @@ class Test{
 		System.out.println("Hello World!!!");
 		System.out.println("Hello Hello!!!");
 		System.out.println("BRANCH1");
+		System.out.println("BRANCH2");
 	}
 }
